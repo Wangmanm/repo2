@@ -5,5 +5,12 @@ qweeeeeeeeeeeeee
 qweeeeeeeeeeee
 aaaaaaaaaaaaaaa
 vvvvvvvvvvvvvvvv1
+<<<<<<< HEAD
 在master中修改了
 master
+
+
+在dv1中修改了 
+11111111dv
+11
+
